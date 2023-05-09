@@ -132,6 +132,8 @@ With HTML and CSS code for designing book cover and execute them.
 
 
 ## Output:
+![out](https://user-images.githubusercontent.com/123856724/236992123-e7d2747f-f0f8-4d9d-9541-0903b84278db.png)
+
 ![output](./out.png)
 
 ## HTML Validator:
